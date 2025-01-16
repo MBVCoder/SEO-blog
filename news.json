@@ -1,0 +1,45 @@
+{
+    "news": [
+      {
+        "title": "New Action RPG Released: The Legend of Storms",
+        "date": "2025-01-16",
+        "author": "Jane Doe",
+        "category": "Game Releases",
+        "content": "The highly anticipated action RPG, 'The Legend of Storms', has officially launched today. Developed by StormTech Studios, this game promises an immersive open-world experience with stunning graphics and a deep storyline.",
+        "tags": ["action RPG", "game release", "StormTech Studios"],
+        "url": "https://www.gamingnews.com/the-legend-of-storms-release",
+        "imageurl": "1.jpg"
+      },
+      {
+        "title": "Top 5 Upcoming PC Games in 2025",
+        "date": "2025-01-15",
+        "author": "John Smith",
+        "category": "Upcoming Games",
+        "content": "From expansive RPGs to intense shooters, the year 2025 is set to bring some of the best PC games yet. Here are the top 5 titles to look forward to: 'Eclipse', 'Battlefront Reborn', 'Chrono Wars', 'Nova Odyssey', and 'Vanguard Siege'.",
+        "tags": ["upcoming games", "PC games", "2025"],
+        "url": "https://www.gamingnews.com/top-5-pc-games-2025",
+        "imageurl":"2.jpg"
+      },
+      {
+        "title": "Gaming Industry Faces Setbacks in 2025 Due to Global Chip Shortage",
+        "date": "2025-01-14",
+        "author": "Emily Brown",
+        "category": "Industry News",
+        "content": "The global semiconductor chip shortage continues to disrupt the gaming industry, delaying hardware releases and affecting game production. Experts suggest that the situation may improve by mid-2025, but the impact is still felt globally.",
+        "tags": ["industry news", "gaming hardware", "chip shortage"],
+        "url": "https://www.gamingnews.com/gaming-chip-shortage-2025",
+        "imageurl":"3.jpg"
+      },
+      {
+        "title": "Beta versions of upcoming AAA Games",
+        "date": "2025-01-14",
+        "author": "john Bron",
+        "category": "Gaming News",
+        "content": "It's a two days of the launched of the GTA6 Beta-version",
+        "tags": ["Gaming news", "gaming ", "GTA frenchise"],
+        "url": "https://www.gamingnews.com/gaming-chip-shortage-2025",
+        "imageurl":"3.jpg"
+      }
+    ]
+  }
+  
